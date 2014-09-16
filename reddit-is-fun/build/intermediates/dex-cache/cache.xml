@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/build/intermediates/pre-dexed/debug/automaton-99e9bc5441d1439ea912596574e0c27c09eb3b6b.jar"
+        jar="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/libs/automaton.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9ae14b38db55c05e04ca06c0d849ebb82c888f07"/>
+    <item
+        dex="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.8.5-187bea4cbbe11dc3eaeb79d9642dba5d4d779269.jar"
+        jar="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/libs/jackson-mapper-asl-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="56439095aa051521c5abb330235820c66886b5e5"/>
+    <item
+        dex="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/build/intermediates/pre-dexed/debug/automaton-4959cfd5f98d29d3f2022623a5133fd01109762c.jar"
+        jar="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/libs/automaton.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9ae14b38db55c05e04ca06c0d849ebb82c888f07"/>
+    <item
+        dex="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.8.5-a8bf3db225a0d2daffeb60cbf38c8745fbc6a273.jar"
+        jar="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/libs/jackson-mapper-asl-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="56439095aa051521c5abb330235820c66886b5e5"/>
+    <item
+        dex="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.8.5-2d62283454690ab9bf9d3fff624f55d439438a76.jar"
+        jar="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/libs/jackson-core-asl-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="713a5564acb9a5467521bbb53221ab8e1fe65039"/>
+    <item
+        dex="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.8.5-46363f1ac2c59594ade2d9814c2d1481bb2b32c9.jar"
+        jar="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/libs/jackson-core-asl-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="713a5564acb9a5467521bbb53221ab8e1fe65039"/>
+
+</pre-dex-items>

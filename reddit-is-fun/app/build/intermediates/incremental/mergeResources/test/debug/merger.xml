@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res" >
+            <file
+                name="icon"
+                path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hello" >Hello World!
+                </string>
+                <string name="app_name" >reddit is funTest
+                </string>
+            </file>
+        </source>
+        <source path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/build/generated/res/rs/test/debug" />
+        <source path="/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

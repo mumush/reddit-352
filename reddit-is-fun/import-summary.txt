@@ -1,0 +1,72 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/reddit-is-fun.iml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* COPYING
+* README.markdown
+* build.properties
+* dev/
+* dev/Launcher.svg
+* dev/alien_head.svg
+* dev/alien_head_black.svg
+* dev/go_arrow_48x48.xcf
+* dev/go_arrow_72x72.xcf
+* dev/mail.svg
+* dev/screen1.png
+* dev/screen2.png
+* libs-dependencies/
+* libs-dependencies/joda-time-1.6.2.jar
+* libs-dependencies/jsr311-api-0.8.jar
+* libs-dependencies/stax2-api-3.0.0.jar
+* tests/
+* tests/default.properties
+* tests/proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/automaton.jar => app/libs/automaton.jar
+* libs/jackson-core-asl-1.8.5.jar => app/libs/jackson-core-asl-1.8.5.jar
+* libs/jackson-mapper-asl-1.8.5.jar => app/libs/jackson-mapper-asl-1.8.5.jar
+* proguard.cfg => app/proguard.cfg
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* tests/res/ => app/src/androidTest/res/
+* tests/src/ => app/src/androidTest/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

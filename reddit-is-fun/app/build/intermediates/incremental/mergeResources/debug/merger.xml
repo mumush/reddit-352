@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res" >
+            <file
+                name="divider_vertical_dark"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/divider_vertical_dark.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_background_transition"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/list_selector_background_transition.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_blue"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/list_selector_blue.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_blue_longpress"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/list_selector_blue_longpress.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_blue_pressed"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/list_selector_blue_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_blue_transition"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/list_selector_blue_transition.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mail"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/mail.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mail_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/mail_big.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mailgray"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/mailgray.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="reddit_alien"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/reddit_alien.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selftext_border"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/selftext_border.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="thumbnail_background_dark"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/thumbnail_background_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="thumbnail_background_light"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/thumbnail_background_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="vote_down_big_statelist"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/vote_down_big_statelist.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="vote_up_big_statelist"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable/vote_up_big_statelist.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="go_arrow"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/go_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_alien"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_alien.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_back"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_back.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_browser"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_browser.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_close_clear_cancel"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_close_clear_cancel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_compose"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_compose.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_friendslist"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_friendslist.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_login"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_login.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_refresh.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_start_conversation"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/ic_menu_start_conversation.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_disabled"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/list_selector_background_disabled.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_focus"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/list_selector_background_focus.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_longpress"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/list_selector_background_longpress.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_pressed"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-hdpi/list_selector_background_pressed.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_back"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_back.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_close_clear_cancel"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_close_clear_cancel.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_compose"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_compose.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_friendslist"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_friendslist.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_login"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_login.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_refresh.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_start_conversation"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/ic_menu_start_conversation.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_blue"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/vote_down_blue.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_gray"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/vote_down_gray.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_gray"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/vote_up_gray.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_red"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-ldpi/vote_up_red.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="go_arrow"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/go_arrow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_alien"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_alien.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_back"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_back.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_browser"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_browser.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_close_clear_cancel"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_close_clear_cancel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_compose"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_compose.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_friendslist"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_friendslist.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_login"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_login.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_refresh.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_start_conversation"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/ic_menu_start_conversation.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_disabled"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/list_selector_background_disabled.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_longpress"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/list_selector_background_longpress.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_selector_background_pressed"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/list_selector_background_pressed.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_blue"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_blue.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_blue_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_blue_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_blue_focus_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_blue_focus_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_comment_blue"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_comment_blue.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_gray"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_gray.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_gray_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_gray_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_down_gray_focus_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_down_gray_focus_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_comment_red"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_comment_red.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_gray"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_gray.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_gray_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_gray_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_gray_focus_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_gray_focus_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_red"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_red.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_red_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_red_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="vote_up_red_focus_big"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-mdpi/vote_up_red_focus_big.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/drawable-xhdpi/icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="big_envelope_notification"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/big_envelope_notification.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="browser"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/browser.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comment_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/comment_click_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comments_list_content"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/comments_list_content.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comments_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/comments_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comments_list_item_hidden"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/comments_list_item_hidden.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="compose_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/compose_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="compose_reply_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/compose_reply_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_find"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/dialog_find.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="error_toast"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/error_toast.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="inbox_list_content"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/inbox_list_content.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="inbox_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/inbox_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading_dark"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/loading_dark.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading_light"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/loading_light.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/login_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="markhelp_view"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/markhelp_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="more_comments_view"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/more_comments_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="next_previous_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/next_previous_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pick_subreddit_view"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/pick_subreddit_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="profile_list_content"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/profile_list_content.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="submit_link_main"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/submit_link_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="thread_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/thread_click_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="threads_list_content"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/threads_list_content.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="threads_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/threads_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="zero_size_layout"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout/zero_size_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comment_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-land/comment_click_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="compose_reply_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-land/compose_reply_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="login_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-land/login_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="thread_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-land/thread_click_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="comments_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-small/comments_list_item.xml"
+                qualifiers="small-v4"
+                type="layout" />
+            <file
+                name="thread_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-small/thread_click_dialog.xml"
+                qualifiers="small-v4"
+                type="layout" />
+            <file
+                name="threads_list_item"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-small/threads_list_item.xml"
+                qualifiers="small-v4"
+                type="layout" />
+            <file
+                name="comment_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-small-land/comment_click_dialog.xml"
+                qualifiers="small-land-v4"
+                type="layout" />
+            <file
+                name="thread_click_dialog"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/layout-small-land/thread_click_dialog.xml"
+                qualifiers="small-land-v4"
+                type="layout" />
+            <file
+                name="browser"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/browser.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="comments"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/comments.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="inbox"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/inbox.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="profile"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/profile.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="submit_link"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/submit_link.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="subreddit"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/menu/subreddit.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="gray_75" >#ffbfbfbf
+                </color>
+                <color name="gray_50" >#ff7f7f7f
+                </color>
+                <color name="red" >#ffff0000
+                </color>
+                <color name="pale_blue" >#ffcee2ff
+                </color>
+                <color name="light_gray" >#ffdfdfdf
+                </color>
+                <color name="markdown_link_color" >#ff2288cc
+                </color>
+                <color name="arrow_red" >#ffff8a63
+                </color>
+                <color name="arrow_gray" >#ffc0c0c0
+                </color>
+                <color name="android_dark_background" >#FF191919
+                </color>
+                <color name="black" >#ff000000
+                </color>
+                <color name="dark_blue" >#ff000077
+                </color>
+                <color name="medium_pale_yellow" >#ffffff99
+                </color>
+                <color name="blue" >#ff0000ff
+                </color>
+                <color name="error_toast_background" >#ECCC
+                </color>
+                <color name="translucent_yellow" >#80ffff00
+                </color>
+                <color name="arrow_blue" >#ff9494ff
+                </color>
+                <color name="dark_gray" >#ff1f1f1f
+                </color>
+                <color name="gray_25" >#ff3f3f3f
+                </color>
+                <color name="purple" >#ff551a8b
+                </color>
+                <color name="white" >#ffffffff
+                </color>
+                <color name="light_light_gray" >#ffefefef
+                </color>
+            </file>
+            <file
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="op_delete" >Delete thread
+                </string>
+                <string name="sort_by_controversial" >Sort by: controversial
+                </string>
+                <string name="pref_theme_dialogtitle" >Theme
+                </string>
+                <string name="submit_captcha_label" >are you human? (sorry)
+                </string>
+                <string name="pick_subreddit_label" >Subreddit name:
+                </string>
+                <string name="unsubscribe" >- Frontpage
+                </string>
+                <string name="mail_notification_scheduled_5min" >Reddit mail set to check every 5 minutes.
+                </string>
+                <string name="compose_message" >Compose message
+                </string>
+                <string name="subreddit_layout_statustext_text" ></string>
+                <string name="find_box_hint" >comment text
+                </string>
+                <string name="login" >Login
+                </string>
+                <string name="op_edit" >Edit OP
+                </string>
+
+                <string-array name="pref_mail_notification_style_choices" >
+                    <item>
+Standard
+                    </item>
+                    <item>
+Big envelope
+                    </item>
+                    <item>
+Off
+                    </item>
+                </string-array>
+                <string-array
+                    name="pref_theme_values"
+                    translatable="false" >
+                    <item>
+THEME_LIGHT
+                    </item>
+                    <item>
+THEME_DARK
+                    </item>
+                </string-array>
+
+                <string name="view_subreddit" >View subreddit
+                </string>
+                <string name="pref_appearance_category" >Appearance
+                </string>
+                <string name="vote_up_button" >Upvote
+                </string>
+                <string name="op" >OP
+                </string>
+                <string name="confirm_logout_title" >Logout
+                </string>
+                <string name="compose_subject_text" >subject:
+                </string>
+                <string name="share" >Share
+                </string>
+                <string name="subscribe" >+ Frontpage
+                </string>
+                <string name="pref_mail_notification_service" >Check mail outside app
+                </string>
+                <string name="compose_cancel_button" >cancel
+                </string>
+                <string name="error_voting_toast" >Error voting. Please try again.
+                </string>
+                <string name="submit_button" >submit
+                </string>
+                <string name="pref_load_thumbnails" >Show thumbnails
+                </string>
+                <string name="pref_load_thumbnails_only_wifi" >Only on WiFi
+                </string>
+                <string name="mail_notification_scheduled_1hour" >Reddit mail set to check every 1 hour.
+                </string>
+                <string name="submit_captcha_loading" >loading CAPTCHA…
+                </string>
+                <string name="frontpage" >reddit front page
+                </string>
+                <string name="vote_down_arrow_content_description" >downvote arrow
+                </string>
+                <string name="find_next_brief" >Next
+                </string>
+                <string name="submit_text_label" >text (optional)
+                </string>
+                <string name="find_should_wrap" >Wrap search
+                </string>
+                <string name="pref_mail_category" >Reddit mail
+                </string>
+                <string name="compose_message_text" >message:
+                </string>
+                <string name="subreddit_layout_srtext_text" >Android
+                </string>
+                <string name="user_profile" >%s\'s profile
+                </string>
+
+                <string-array
+                    name="pref_rotation_values"
+                    translatable="false" >
+                    <item>
+ROTATION_UNSPECIFIED
+                    </item>
+                    <item>
+ROTATION_PORTRAIT
+                    </item>
+                    <item>
+ROTATION_LANDSCAPE
+                    </item>
+                </string-array>
+
+                <string name="submit_url_label" >url
+                </string>
+                <string name="pref_mail_notification_style" >Mail notification style
+                </string>
+                <string name="app_name" >reddit is fun
+                </string>
+                <string name="logout" >Logout: %s
+                </string>
+                <string name="comment_reply_button" >reply
+                </string>
+                <string name="compose_destination_text" >to:
+                </string>
+                <string name="find_new" >Find new
+                </string>
+                <string name="user_agent" >reddit is fun (Android) %s
+                </string>
+                <string name="find_new_brief" >New
+                </string>
+                <string name="pref_use_external_browser" >Use external browser
+                </string>
+                <string name="login_username_label" >Username:
+                </string>
+                <string name="noSubreddits" >No subreddits
+                </string>
+                <string name="mail_notification_scheduled_1day" >Reddit mail set to check every 24 hours.
+                </string>
+                <string name="more_comments" >load more comments
+                </string>
+                <string name="login_password_label" >Password:
+                </string>
+                <string name="login_button" >Login
+                </string>
+                <string name="select_link_title" >Select action
+                </string>
+
+                <string-array
+                    name="pref_mail_notification_service_values"
+                    translatable="false" >
+                    <item>
+MAIL_NOTIFICATION_SERVICE_OFF
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_SERVICE_5MIN
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_SERVICE_30MIN
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_SERVICE_1HOUR
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_SERVICE_6HOURS
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_SERVICE_1DAY
+                    </item>
+                </string-array>
+
+                <string name="submit_link" >Submit link
+                </string>
+                <string name="inbox_title" >%s\'s inbox
+                </string>
+                <string name="reply_cancel_button" >cancel
+                </string>
+                <string name="view_comments" >View comments
+                </string>
+                <string name="sort_by_hot" >Sort by: hot
+                </string>
+                <string name="noMessages" >Your inbox is empty.
+                </string>
+
+                <string-array name="pref_rotation_choices" >
+                    <item>
+System settings (default)
+                    </item>
+                    <item>
+Portrait
+                    </item>
+                    <item>
+Landscape
+                    </item>
+                </string-array>
+
+                <string name="thread_link_button" >link
+                </string>
+                <string name="menu_preferences" >Settings
+                </string>
+                <string name="loading_splash_text" >Loading…
+                </string>
+                <string name="pref_homepage" >Default starting reddit
+                </string>
+                <string name="noComments" >No comments here
+                </string>
+                <string name="previous_threads" >prev
+                </string>
+                <string name="pref_mail_notification_service_dialogtitle" >Check mail outside app
+                </string>
+                <string name="sort_by_best" >Sort by: best
+                </string>
+                <string name="mail_notification_scheduled_6hours" >Reddit mail set to check every 6 hours.
+                </string>
+                <string name="pref_always_show_next_previous" >Always show navbar
+                </string>
+                <string name="submit_title_label" >title
+                </string>
+                <string name="sort_by_top" >Sort by: top
+                </string>
+                <string name="pref_confirm_quit" >Quit/logout confirmation
+                </string>
+                <string name="find_brief" >Find
+                </string>
+                <string name="pref_homepage_hint" >Leave blank to use default
+                </string>
+                <string name="thread_time_submitter" >%1$s by %2$s
+                </string>
+                <string name="subreddit_layout_download_text" >Download
+                </string>
+                <string name="pick_subreddit" >Pick subreddit
+                </string>
+
+                <string-array
+                    name="pref_mail_notification_style_values"
+                    translatable="false" >
+                    <item>
+MAIL_NOTIFICATION_STYLE_DEFAULT
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_STYLE_BIG_ENVELOPE
+                    </item>
+                    <item>
+MAIL_NOTIFICATION_STYLE_OFF
+                    </item>
+                </string-array>
+
+                <string name="compose_captcha_loading" >loading CAPTCHA…
+                </string>
+                <string name="sort_by_old" >Sort by: old
+                </string>
+                <string name="pref_show_comment_guide_lines" >Comment guide lines
+                </string>
+                <string name="thread_comments_button" >comments
+                </string>
+                <string name="find" >Find comment
+                </string>
+                <string name="pref_general_category" >General settings
+                </string>
+                <string name="pref_save_history" >Save browsing history
+                </string>
+                <string name="really_quit" >Really quit?
+                </string>
+                <string name="pref_rotation" >Screen rotation
+                </string>
+                <string name="compose_captcha_text" >are you human? (sorry)
+                </string>
+                <string name="pref_text_size" >Text size
+                </string>
+                <string name="yes" >Yes
+                </string>
+                <string name="open_browser" >Open in browser
+                </string>
+                <string name="find_not_found" >\"%s\" not found
+                </string>
+                <string name="no" >No
+                </string>
+                <string name="compose_send_button" >send
+                </string>
+
+                <string-array name="pref_mail_notification_service_choices" >
+                    <item>
+Off
+                    </item>
+                    <item>
+Every 5 minutes
+                    </item>
+                    <item>
+Every 30 minutes
+                    </item>
+                    <item>
+Every 1 hour
+                    </item>
+                    <item>
+Every 6 hours
+                    </item>
+                    <item>
+Every 24 hours
+                    </item>
+                </string-array>
+                <string-array name="pref_theme_choices" >
+                    <item>
+Light
+                    </item>
+                    <item>
+Dark
+                    </item>
+                </string-array>
+                <string-array name="pref_text_size_choices" >
+                    <item>
+Medium
+                    </item>
+                    <item>
+Large
+                    </item>
+                    <item>
+Larger
+                    </item>
+                    <item>
+Huge
+                    </item>
+                </string-array>
+
+                <string name="inbox" >Inbox
+                </string>
+                <string name="find_next" >Find next
+                </string>
+                <string name="reply_save_button" >save
+                </string>
+                <string name="light_theme" >Use light theme
+                </string>
+                <string name="sort_by_new" >Sort by: new
+                </string>
+                <string name="refresh" >Refresh
+                </string>
+                <string name="login_remember_checkbox" >Remember me?
+                </string>
+                <string name="dark_theme" >Use dark theme
+                </string>
+                <string name="quit" >Quit
+                </string>
+                <string name="vote_down_button" >Downvote
+                </string>
+                <string name="comment_hidden" >[+]
+                </string>
+                <string name="pref_theme" >Theme
+                </string>
+                <string name="vote_up_arrow_content_description" >upvote arrow
+                </string>
+                <string name="mail_notification_unscheduled" >Reddit mail notification service disabled.
+                </string>
+                <string name="thumbnail_content_description" >thumbnail (click to view link)
+                </string>
+                <string name="next_threads" >next
+                </string>
+                <string name="pref_thumbnail_category" >Thumbnail Settings
+                </string>
+                <string name="noThreads" >No threads here
+                </string>
+                <string name="confirm_logout" >Are you sure you want to logout?
+                </string>
+                <string name="close_browser" >Close browser
+                </string>
+                <string name="pref_rotation_dialogtitle" >Screen rotation
+                </string>
+                <string name="comment_links_button" >links
+                </string>
+                <string name="pref_text_size_dialogtitle" >Text size
+                </string>
+
+                <string-array
+                    name="pref_text_size_values"
+                    translatable="false" >
+                    <item>
+TEXT_SIZE_MEDIUM
+                    </item>
+                    <item>
+TEXT_SIZE_LARGE
+                    </item>
+                    <item>
+TEXT_SIZE_LARGER
+                    </item>
+                    <item>
+TEXT_SIZE_HUGE
+                    </item>
+                </string-array>
+
+                <string name="mail_notification_scheduled_30min" >Reddit mail set to check every 30 minutes.
+                </string>
+                <string name="submit_reddit_label" >reddit
+                </string>
+                <string name="pref_mail_notification_style_dialogtitle" >Mail notification style
+                </string>
+                <string name="update_captcha" >Update CAPTCHA
+                </string>
+                <string name="pick_subreddit_button" >Go
+                </string>
+            </file>
+            <file
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Reddit_Dark_Dialog_NoTitle"
+                    parent="@style/Reddit_Dark_Dialog" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Medium"
+                    parent="@android:style/Theme" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Medium.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Medium.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Medium.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+22sp
+                    </item>
+                </style>
+
+                <color name="reddit_light_dialog_text_color" >@color/white
+                </color>
+
+                <style
+                    name="TextAppearance_Large.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+13sp
+                    </item>
+                </style>
+
+                <color name="reddit_dark_dialog_text_color" >@color/white
+                </color>
+
+                <style
+                    name="Reddit_Dark_Larger"
+                    parent="@android:style/Theme" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Larger.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Larger.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Larger.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Medium.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+16sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Medium.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Large.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Dialog_NoTitle"
+                    parent="@style/Reddit_Light_Dialog" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Dialog"
+                    parent="@android:style/Theme.Dialog" >
+                    <item name="android:textColor">
+@color/reddit_light_dialog_text_color
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Dialog"
+                    parent="@android:style/Theme.Dialog" >
+                    <item name="android:textColor">
+@color/reddit_dark_dialog_text_color
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Large.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Huge"
+                    parent="@android:style/Theme.Light" >
+                    <item name="android:listSelector">
+@drawable/list_selector_blue
+                    </item>
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Huge.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Huge.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Huge.Large
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Larger"
+                    parent="@android:style/Theme.Light" >
+                    <item name="android:listSelector">
+@drawable/list_selector_blue
+                    </item>
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Larger.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Larger.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Larger.Large
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Medium.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+10sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Huge"
+                    parent="@android:style/Theme" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Huge.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Huge.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Huge.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+20sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+15sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Medium"
+                    parent="@android:style/Theme.Light" >
+                    <item name="android:listSelector">
+@drawable/list_selector_blue
+                    </item>
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Medium.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Medium.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Medium.Large
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Large"
+                    parent="@android:style/Theme" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Large.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Large.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Large.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Large"
+                    parent="@android:style/Theme.Light" >
+                    <item name="android:listSelector">
+@drawable/list_selector_blue
+                    </item>
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Large.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Large.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Large.Large
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="TextAppearance_Medium.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Large"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Large.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Large.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Large.Large
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Dialog"
+                    parent="@android:style/Theme.Holo.Light.Dialog" >
+                    <item name="android:textColor">
+@color/reddit_light_dialog_text_color
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Huge"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Huge.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Huge.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Huge.Large
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Large.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+16sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Dialog_NoTitle"
+                    parent="@style/Reddit_Dark_Dialog" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Medium.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+10sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Small"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Medium.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <color name="reddit_light_dialog_text_color" >@color/black
+                </color>
+
+                <style
+                    name="Reddit_Light_Dialog_NoTitle"
+                    parent="@style/Reddit_Light_Dialog" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Large"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Large.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Large.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Large.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Large.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Light_Larger"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Larger.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Larger.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Larger.Large
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+20sp
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Larger.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+15sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Dialog"
+                    parent="@android:style/Theme.Holo.Dialog" >
+                    <item name="android:textColor">
+@color/reddit_dark_dialog_text_color
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Larger"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Larger.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Larger.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Larger.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Large.Medium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+13sp
+                    </item>
+                </style>
+
+                <color name="reddit_dark_dialog_text_color" >@color/white
+                </color>
+
+                <style
+                    name="Reddit_Light_Medium"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Medium.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Medium.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Medium.Large
+                    </item>
+                </style>
+
+                <style
+                    name="TextAppearance_Huge.Large"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+22sp
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Medium"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Medium.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Medium.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Medium.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+
+                <style
+                    name="Reddit_Dark_Huge"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:textAppearanceSmall">
+@style/TextAppearance_Huge.Small
+                    </item>
+                    <item name="android:textAppearanceMedium">
+@style/TextAppearance_Huge.Medium
+                    </item>
+                    <item name="android:textAppearanceLarge">
+@style/TextAppearance_Huge.Large
+                    </item>
+                    <item name="android:windowBackground">
+@color/black
+                    </item>
+                </style>
+            </file>
+            <file
+                name="reddit_preferences"
+                path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/main/res/xml/reddit_preferences.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/build/generated/res/rs/debug" />
+        <source path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/ryan/Sites/github/reddit-352/reddit-is-fun/app/src/debug/res" />
+    </dataSet>
+
+</merger>

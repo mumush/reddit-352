@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/ryan/AndroidStudioProjects/reddit-is-fun/app/src/androidTest/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">reddit is funTest</string>
+    <string name="hello">Hello World!</string>
+
+</resources>
